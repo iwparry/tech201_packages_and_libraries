@@ -30,7 +30,5 @@ print(module())  # if we simple imported the library we would need to specify th
 A Python package usually consists of several modules.
 A package is a hierarchical file directory structure that defines a single Python application environment that consist of modules and subpackages and so on.
 Packages can also be found in Libraries.
-```python
 
-```
-
+![](packages_vis.png)
